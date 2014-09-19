@@ -38,7 +38,9 @@
 
 -   Cast a wide net to avoid a local-maxima problem.
 
-    -   Do not silo yourself into specific niches yet.
+    -   Different problems.
+
+    -   Different markets.
 
 -   Produce the mainstream canvas.
 
