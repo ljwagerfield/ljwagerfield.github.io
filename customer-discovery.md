@@ -42,15 +42,19 @@
 
     -   Different markets.
 
--   Produce the mainstream canvas.
+-   Produce canvas(es).
+
+    -   Initially may be 1.
+
+    -   New canvas for each problem domain.
 
 -   Identify market type (new, existing, re-segment niche/price).
 
     -   Affects how you approach customers.
 
--   The 'canvas' is an organic document that evolves.
+-   The canvas is an organic document that evolves.
 
-    -   Union of all derivative canvases that focus on niche areas.
+-   An overarching 'vision' canvas may not exist in reality; it exists as the union of all derivative canvases.
 
 *Should take 15 minutes.*
 
