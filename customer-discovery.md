@@ -60,7 +60,7 @@
 
 -   An overarching 'vision' canvas may not exist in reality; it exists as the union of all derivative canvases.
 
-*Should take 15 minutes.*
+*Under 20 minutes for each canvas.*
 
 ## Step 2: Adviser Feedback
 
