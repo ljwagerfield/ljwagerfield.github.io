@@ -34,6 +34,9 @@
 
 ## Step 1: Envision
 
+>   It takes an average of 58 ideas to deliver a single successful new product.
+>   -- <cite>Abbie Griffin</cite>
+
 -   Envision the mainstream product.
 
 -   Cast a wide net to avoid a local-maxima problem.
