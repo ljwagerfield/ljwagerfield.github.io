@@ -58,7 +58,7 @@
 
     -   Customer problem descriptions.
 
-    -   Revenue (e.g. number of customer; existing market size; percentage we will capture; they currently pay X; etc.)
+    -   Revenue (e.g. number of customers; existing market size; percentage we will capture; they currently pay X; etc.)
 
 -   Identify market type (new, existing, re-segment niche/price).
 
