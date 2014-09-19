@@ -18,7 +18,7 @@
 
         -   Evolve *product hypothesis*. Return to step 2.
 
-        -   Evolve *customer hypothesis*. Return to 'customer discovery'.
+        -   Evolve *customer hypothesis*. Return to [customer discovery](customer-discovery.md).
 
     2.  Persevere (positive or mixed signals)
 
@@ -108,7 +108,7 @@
 
     -   Pivot the *customer hypothesis*.
 
-    -   Return to 'customer discovery'.
+    -   Return to [customer discovery](customer-discovery.md).
 
     -   This can occur when the problems you identified have too much friction for a solution.
 

@@ -14,7 +14,7 @@
 
     1.  Exit (positive signal)
 
-        -   Begin 'customer validation'.
+        -   Begin [customer validation](customer-validation.md).
 
     2.  Pivot (negative signal)
 
