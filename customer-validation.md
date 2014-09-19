@@ -68,6 +68,10 @@
 
 -   Define a target: a value the metric must meet to sustain the business.
 
+-   Data must be analysed in cohorts.
+
+    -   Users who experience the same product journey.
+
 ## Step 3: Build MVP
 
 -   Delay prevents startups from getting the feedback they need. 
