@@ -52,6 +52,14 @@
 
     -   New canvas for each problem domain.
 
+    -   Under 20 minutes for each initial draft.
+
+-   Strengthen assumptions using '5 Whys':
+
+    -   Customer problem descriptions.
+
+    -   Revenue (e.g. number of customer; existing market size; percentage we will capture; they currently pay X; etc.)
+
 -   Identify market type (new, existing, re-segment niche/price).
 
     -   Affects how you approach customers.
@@ -59,8 +67,6 @@
 -   The canvas is an organic document that evolves.
 
 -   An overarching 'vision' canvas may not exist in reality; it exists as the union of all derivative canvases.
-
-*Under 20 minutes for each canvas.*
 
 ## Step 2: Adviser Feedback
 
