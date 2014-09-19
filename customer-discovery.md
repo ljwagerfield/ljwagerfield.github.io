@@ -38,7 +38,7 @@
 >
 >   -- <cite>Abbie Griffin</cite>
 
--   Envision the mainstream product.
+-   Constrain your idea around a domain you are passionate about.
 
 -   Cast a wide net to avoid a local-maxima problem.
 
