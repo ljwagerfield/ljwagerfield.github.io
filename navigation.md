@@ -1,4 +1,4 @@
-# Running Lean
+# Lean Startup
 
 [Home](index.md)
 [Customer Discovery](customer-discovery.md)
