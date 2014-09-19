@@ -2,7 +2,7 @@
 
 ## Overview
 
-*Verify Quantitatively*
+>   Verify Quantitatively
 
 1.  Assume market quantitatively
 

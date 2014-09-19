@@ -2,7 +2,7 @@
 
 ## Overview
 
-*Validate Qualitatively*
+>   Validate Qualitatively
 
 1.  Envision (broadly scoped, single draft canvas)
 
