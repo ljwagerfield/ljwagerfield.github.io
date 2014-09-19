@@ -72,6 +72,8 @@
 
     -   Users who experience the same product journey.
 
+    -   Removes other variables that skew metrics.
+
 ## Step 3: Build MVP
 
 -   Delay prevents startups from getting the feedback they need. 
