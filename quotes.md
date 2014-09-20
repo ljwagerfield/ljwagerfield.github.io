@@ -22,8 +22,6 @@
 
 >   Small batches allow you to adapt sooner.
 
->   Is it possible to learn the same things with less effort?
-
 >   Optimal experimentation comprises: speed, learning, and focus.
 
 ## Inspiration
@@ -35,5 +33,3 @@
 >   Ideas are cheap, acting on them is quite expensive
 
 >   Challenge yourself to find the simplest thing you can do to test a hypothesis.
-
->   No matter what comes of testing the MVP, you will not give up hope.

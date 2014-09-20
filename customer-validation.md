@@ -2,7 +2,7 @@
 
 ## Overview
 
->   Verify Quantitatively
+>   Verify quantitatively
 
 1.  Assume market quantitatively
 
@@ -46,19 +46,15 @@
 
 ## Step 1: Assume market quantitatively
 
--   Estimate market size.
+>   Customers are the universal high-level success metric
 
-    -   Conversion rates apply to this finite pool.
+-   Estimate market size. Conversion rates apply to this finite pool.
 
-    -   Indicates when a customer segment pivot is required.
-
--   Define a target: % of market you wish to capture.
-
-    -   These are retained customers.   
-
-    -   The 'universal high-level success metric'.  
+-   Define a target: % of market you wish to capture (retained customers).
 
 ## Step 2: Assume solution quantitatively
+
+>   Focus on systems not goals
 
 -   Conversion rates against discrete events.
 
@@ -76,25 +72,25 @@
 
 ## Step 3: Build MVP
 
+>   Is it possible to learn the same things with less effort?
+
 -   Delay prevents startups from getting the feedback they need. 
 
 -   Just enough for customer to visualise solution.
 
 ## Step 4: Solution interviews
 
+>   No matter what comes of testing the MVP, you will not give up hope.
+
 -   Validate qualitatively as per problem interviews.
 
     -   Qualitative analysis gives direction and explains *why*, but is not a proof.
 
-    -   Set clear falsifiable hypotheses.
-
-        -   Set targets too.
-
-        -   If customer does not give expected response: *stop and probe for more*.
-
 -   Verify quantitatively using predefine actionable metrics.
 
     -   Collect conversion rates during interviews.
+
+    -   If customer does not give expected response: *stop and probe for more*.
 
     -   Quantitative analysis *proves* performance, but cannot explain why.
 
