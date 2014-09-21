@@ -134,9 +134,9 @@
 
         -   'Change' does not always mean 'replace':
 
-            -   Zoom-in Pivot: single feature becomes whole product.
+            -   Zoom-in pivot: single feature becomes whole product.
 
-            -   Zoom-out Pivot: additional features must be added.
+            -   Zoom-out pivot: additional features must be added.
 
     -   After exhausting the *product hypotheses*, pivot one of the *customer hypotheses*:
 
