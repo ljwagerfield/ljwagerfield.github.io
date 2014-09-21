@@ -8,10 +8,10 @@ Ballpark timing benchmarks taken from popular 'Lean Startup' reading materials:
 
 -   Build-Measure-Learn cycle within 2 weeks.
 
--   Customer conversions within 8 weeks.
+-   Customer conversions within 8 - 12 weeks. *(2 - 4 MVP iterations)*
 
 -   18 months of runway. 
 
-    -   12-15 months to hit product/market fit.
+    -   12 - 15 months to hit product/market fit.
 
-    -   3-6 months to raise your Series A.
+    -   3 - 6 months to raise your Series A.
