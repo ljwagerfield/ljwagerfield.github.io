@@ -35,8 +35,6 @@
 ## Step 1: Envision
 
 >   It takes an average of 58 ideas to deliver a single successful new product.
->
->   -- <cite>Abbie Griffin</cite>
 
 -   Constrain your idea around a domain you are passionate about.
 
@@ -53,6 +51,8 @@
     -   New canvas for each problem domain.
 
     -   Under 20 minutes for each initial draft.
+
+>   Too many business plans look like they are planning to launch a rocket than drive a car. 
 
 -   Strengthen assumptions using '5 Whys':
 
