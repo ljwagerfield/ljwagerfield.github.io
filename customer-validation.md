@@ -78,6 +78,10 @@
 
 >   Is it possible to learn the same things with less effort?
 
+-   Test the riskiest assumptions first.
+
+    -   Acceptable to build separate MVPs aimed at getting feedback on individual assumptions.
+
 -   Delay prevents startups from getting the feedback they need. 
 
 -   Just enough for customer to visualise solution.
