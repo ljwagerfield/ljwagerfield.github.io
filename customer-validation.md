@@ -148,6 +148,8 @@
 
             -   Can occur when the problems you identified have too much friction for a solution.
 
+>   Initially, the new design typically performs worse than the old one.
+
 -   Persevere by optimising the feature - but avoid a 'local maxima':
 
     -   Pick bold outcomes instead of chasing incremental improvements.
