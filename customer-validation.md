@@ -1,5 +1,7 @@
 # Customer Validation
 
+>   a.k.a. "Build-Measure-Learn" feedback loop
+
 ## Overview
 
 >   Verify quantitatively
@@ -63,6 +65,8 @@
     -   Vanity metrics, by contrast, do not highlight a specific area for improvement.
 
 -   Define a target: a value the metric must meet to sustain the business.
+
+-   First iteration creates a baseline.
 
 -   Data must be analysed in cohorts.
 
