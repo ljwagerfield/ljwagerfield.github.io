@@ -4,6 +4,8 @@ Ballpark timing benchmarks taken from popular 'Lean Startup' reading materials:
 
 -   Customer stereotyped in 4 weeks.
 
+-   Build-Measure-Learn cycle within 2 weeks.
+
 -   Customer conversions within 8 weeks.
 
 -   Bad ideas should be invalidated within several days - certainly under a month.
