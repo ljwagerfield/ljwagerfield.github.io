@@ -104,26 +104,6 @@
 
     -   Quantitative analysis *proves* performance, but cannot explain why.
 
-## Step 5: Steer
-
--   Pivoting involves changing one of the *product hypotheses*:
-
-    -   Features
-
-    -   Benefits
-
-    -   Dependencies
-
-    -   Intellectual property (are we infringing, or are the NDAs slowing us down?)
-
--   If the product hypothesis has been exhaustively pivoted:
-
-    -   Pivot the *customer hypothesis*.
-
-    -   Return to [customer discovery](customer-discovery.md).
-
-    -   This can occur when the problems you identified have too much friction for a solution.
-
 ## Step 6: Broader Quantitative Verification
 
 >   If you have a lot of uncertainty now, you don't need much data to reduce uncertainty significantly. When you have a lot of certainty already, then you need a lot of data to reduce uncertainty significantly
@@ -134,9 +114,35 @@
 
 -   Controversial: skip this step if a strong positive signal is received in step 4.
 
-## Step 7: Steer
+## Steps 5 + 7: Steer
 
--   Pivot as per 'step 5'.
+>   Tune the engine from the baseline toward the ideal. This may take many attempts.
+
+-   Pivot by changing a hypothesis:
+
+    -   First change one of the *product hypotheses*:
+
+        -   Features
+
+        -   Benefits
+
+        -   Dependencies
+
+        -   Intellectual property (are we infringing, or are the NDAs slowing us down?)
+
+    -   After exhausting the *product hypotheses*, pivot one of the *customer hypotheses*:
+
+        -   Customer segments
+
+        -   Customer problems
+
+        -   Customer lifestyle: how much opportunity is there for a solution?
+
+        -   Customer types: chain of people influencing the conversion.
+
+        -   Return to [customer discovery](customer-discovery.md).
+
+            -   Can occur when the problems you identified have too much friction for a solution.
 
 -   Persevere by optimising the feature - but avoid a 'local maxima':
 

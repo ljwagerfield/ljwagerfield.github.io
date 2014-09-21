@@ -160,9 +160,7 @@
 
     -   Customer lifestyle: how much opportunity is there for a solution?
 
-    -   Customer types
-
-        -   Potential chain of people who must buy-in to the product before the 'decision maker' allows the sale. Defined in 'The Four Steps...'
+    -   Customer types: chain of people influencing the conversion.
 
 -   **You are done when:**
 
