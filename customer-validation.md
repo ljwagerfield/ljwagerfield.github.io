@@ -126,17 +126,17 @@
 
         -   Features
 
+            -   'Change' does not always imply 'replace'...
+
+            -   Zoom-in pivot: single feature becomes whole product.
+
+            -   Zoom-out pivot: additional features must be added.
+
         -   Benefits
 
         -   Dependencies
 
         -   Intellectual property (are we infringing, or are the NDAs slowing us down?)
-
-        -   'Change' does not always mean 'replace':
-
-            -   Zoom-in pivot: single feature becomes whole product.
-
-            -   Zoom-out pivot: additional features must be added.
 
     -   After exhausting the *product hypotheses*, pivot one of the *customer hypotheses*:
 
