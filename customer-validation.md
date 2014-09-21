@@ -136,6 +136,8 @@
 
         -   Customer segments
 
+            -   Sometimes functionality can be left the same: just change audience focus.
+
         -   Customer problems
 
         -   Customer lifestyle: how much opportunity is there for a solution?
