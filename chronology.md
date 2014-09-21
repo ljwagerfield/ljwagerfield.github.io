@@ -8,7 +8,7 @@ Ballpark timing benchmarks taken from popular 'Lean Startup' reading materials:
 
 -   Build-Measure-Learn cycle within 2 weeks.
 
--   Customer conversions within 8 - 12 weeks. *(2 - 4 MVP iterations)*
+-   Revenue within 8 - 12 weeks. *(2 - 4 MVP iterations)*
 
 -   18 months of runway. 
 
