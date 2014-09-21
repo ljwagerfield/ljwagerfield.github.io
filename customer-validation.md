@@ -102,6 +102,8 @@
 
     -   If customer does not give expected response: *stop and probe for more*.
 
+        -   Switch to the *problem interview* script.
+
     -   Quantitative analysis *proves* performance, but cannot explain why.
 
 ## Step 6: Broader Quantitative Verification
