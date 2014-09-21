@@ -132,6 +132,12 @@
 
         -   Intellectual property (are we infringing, or are the NDAs slowing us down?)
 
+        -   'Change' does not always mean 'replace':
+
+            -   Zoom-in Pivot: single feature becomes whole product.
+
+            -   Zoom-out Pivot: additional features must be added.
+
     -   After exhausting the *product hypotheses*, pivot one of the *customer hypotheses*:
 
         -   Customer segments
