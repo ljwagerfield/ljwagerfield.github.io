@@ -52,13 +52,13 @@
 
     -   Under 20 minutes for each initial draft.
 
+    -   Avoid deep analysis at this stage - *initial assumptions are often disproved*
+
+        -   Just enough to articulate idea to advisers.
+
+        -   Identifies a starting point for problem interviews.
+
 >   Too many business plans look like they are planning to launch a rocket than drive a car. 
-
--   Strengthen assumptions using '5 Whys':
-
-    -   Customer problem descriptions.
-
-    -   Revenue (e.g. number of customers; based on existing market size; percentage we will capture; they currently pay X; etc.)
 
 -   Identify market type (new, existing, re-segment niche/price).
 
