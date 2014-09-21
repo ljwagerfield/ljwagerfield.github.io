@@ -1,6 +1,6 @@
 # Customer Validation
 
->   a.k.a. "Build-Measure-Learn" feedback loop
+>   Encompasses the "Build-Measure-Learn" feedback loop
 
 ## Overview
 
