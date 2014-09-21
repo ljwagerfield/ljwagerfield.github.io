@@ -90,6 +90,8 @@
 
 >   No matter what comes of testing the MVP, you will not give up hope.
 
+-   Prepare for the fact that MVPs often result in bad news.
+
 -   Validate qualitatively as per problem interviews.
 
     -   Qualitative analysis gives direction and explains *why*, but is not a proof.
