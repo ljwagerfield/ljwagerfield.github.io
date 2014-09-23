@@ -92,9 +92,15 @@
 
     -   Must have a passion for the industry.
 
-    -   Advisers that are clearly passionate:
+    -   Advisers must be genuinely passionate.
 
-        -   Equity should be in single digits - but must not be their motivation. 
+        -   Equity should be offered to ensure they have a vested interest.
+
+        -   Equity should be in single digits.
+
+        -   Must not be their sole motivation.
+
+        -   Should be offered as compensation, not negotiated as a deal.
 
 -   Show advisers the canvas(es). Ask them:
 
