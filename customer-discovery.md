@@ -106,6 +106,8 @@
 
 ## Step 3: Problem Interviews
 
+>   Customer and market risks are higher than product risks
+
 -   Find customers.
 
     -   Find customers using existing solutions.

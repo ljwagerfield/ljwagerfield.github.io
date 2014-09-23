@@ -14,6 +14,12 @@ Capture: ~1% of market.
 
 -   Aim for an 80% end-to-end conversion rate from your early adopters.
 
+-   Initial indications of problem/solution fit within 8 - 12 weeks.
+
+    -   First paying customers.
+
+    -   Failing this: change the vision.
+
 ## Product / Market Fit
 
 >   Have I built something people want?

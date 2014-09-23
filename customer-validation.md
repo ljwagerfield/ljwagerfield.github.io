@@ -86,6 +86,8 @@
 
 -   Just enough for customer to visualise solution.
 
+-   Every bit of functionality must be targeted to increasing a specific metric.
+
 ## Step 4: Solution interviews
 
 >   No matter what comes of testing the MVP, you will not give up hope.
