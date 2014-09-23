@@ -60,6 +60,8 @@
 
 >   Too many business plans look like they are planning to launch a rocket than drive a car. 
 
+-   Produce a high-concept pitch: a single line to express the idea.
+
 -   Identify market type (new, existing, re-segment niche/price).
 
     -   Affects how you approach customers.
