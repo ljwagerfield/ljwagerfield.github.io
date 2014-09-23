@@ -12,13 +12,15 @@ Capture: ~1% of market.
 
 -   Perform [customer discovery](customer-discovery.md) followed by [customer validation](customer-validation.md). This process is iterative.
 
--   Aim for an 80% end-to-end conversion rate from your early adopters.
+-   MVPs should be demos at this stage.
 
 -   Initial indications of problem/solution fit within 8 - 12 weeks.
 
     -   First paying customers.
 
     -   Failing this: change the vision.
+
+-   Final indication of problem/solution fit is an 80% end-to-end conversion rate from early adopters.
 
 ## Product / Market Fit
 
