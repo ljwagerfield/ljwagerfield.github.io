@@ -70,6 +70,8 @@
 
 ## Step 2: Adviser Feedback
 
+>   The riskiest part of running a startup is not correctly identifying what's riskiest.
+
 -   Find advisers.
 
     -   Continuous process.

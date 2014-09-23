@@ -82,6 +82,8 @@
 
     -   Acceptable to build separate MVPs aimed at getting feedback on individual assumptions.
 
+    -   Riskiest part is not correctly identifying what's riskiest.
+
 -   Delay prevents startups from getting the feedback they need. 
 
 -   Just enough for customer to visualise solution.
