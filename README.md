@@ -1,6 +1,6 @@
 # Lean Startup - Notes
 
-This repository contains rough notes taken from various sources, but is largely underpinned by the works of:
+Personal notes on managing a 'lean startup'. This content is largely derived from the works of:
 
 -   The Lean Startup (E. Ries, 2011)
 
