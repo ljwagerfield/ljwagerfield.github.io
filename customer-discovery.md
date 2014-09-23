@@ -122,6 +122,8 @@
 
     -   Find customers using existing solutions.
 
+        -   They express an active need for a solution.
+
         -   More likely to become early adopters.
 
         -   Prioritise channels you will actually use to acquire future customers.
@@ -159,6 +161,24 @@
 -   Adjust the script and customer demographic
 
     -   Aim for stronger and more consistent positive signals with each subsequent batch
+
+### Learn the market
+
+>   The market is a superset of the customer base. It must also be understood.
+
+-   Deep knowledge of the market will highlight:
+
+    -   New search spaces for formulating hypotheses.
+
+    -   Analogues to alleviate testing.
+
+-   When talking with customers, learn about:
+
+    -   Industry events. Attend these. Talk to speakers.
+
+    -   Competitors. Investigate these. Do they affect our market type hypothesis?
+
+    -   Consortiums and groups. Create a presence with these.
 
 ## Step 4: Steer
 
