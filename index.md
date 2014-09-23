@@ -1,5 +1,9 @@
 # Running Lean
 
+>   Customers are the universal high-level success metric. 
+
+>   Pace growth by increasing each batch by x10 until you hit your estimated scale.
+
 ## Problem / Solution Fit
 
 >   Do I have a problem worth solving?
@@ -7,8 +11,6 @@
 Prerequisite: vision. 
 
 Prove: desirability (acquisition + activation); viability (revenue); feasibility (can it be built). 
-
-Capture: ~1% of market.
 
 -   Perform [customer discovery](customer-discovery.md) followed by [customer validation](customer-validation.md). This process is iterative.
 
@@ -18,7 +20,7 @@ Capture: ~1% of market.
 
     -   First paying customers.
 
-    -   Failing this: change the vision.
+    -   If a reset is required, it should be obvious at this stage.
 
 -   Final indication of problem/solution fit is an 80% end-to-end conversion rate from early adopters.
 
@@ -29,8 +31,6 @@ Capture: ~1% of market.
 Prerequisite: MVP. 
 
 Prove: value (retention).
-
-Capture: ~10% of market.
 
 -   Continue customer [discovery](customer-discovery.md) and [validation](customer-validation.md).
 
@@ -47,7 +47,5 @@ Capture: ~10% of market.
 Prerequisite: valued product. 
 
 Prove: growth (metrics depend on EoG).
-
-Capture: 100% of market.
 
 -   Look for investment before scaling (once proving product/market fit).
