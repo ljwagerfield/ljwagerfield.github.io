@@ -118,7 +118,7 @@
 
         -   New market. No competition. Customer needs educating.
 
-        -   Existing market. Enter with a better-performing product.
+        -   Existing market. High competition. Customer understood. Product must be better.
 
         -   Resegmented existing market, dividing by price.
 
