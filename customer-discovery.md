@@ -116,13 +116,13 @@
 
     -   Initial 'market type' of the market(s) you are targeting:
 
-        -   New market.
+        -   New market. No competition. Customer needs educating.
 
         -   Existing market. Enter with a better-performing product.
 
-        -   Resegmented existing market, divided by price.
+        -   Resegmented existing market, dividing by price.
 
-        -   Resegmented existing market, divided by niche customers/problems.
+        -   Resegmented existing market, dividing by niche customers/problems.
 
 ## Step 3: Adviser Feedback
 
