@@ -74,7 +74,7 @@
 
 ## Step 2: Market Research
 
->   The market is a superset of your customers. It must be understood.
+>   The market is a superset of your customers - ["market type is everything"](http://steveblank.com/2009/09/10/customer-development-manifesto-part-4/)
 
 -   Broader knowledge of the market will highlight:
 
