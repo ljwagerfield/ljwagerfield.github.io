@@ -116,9 +116,9 @@
 
     -   Initial 'market type' of the market(s) you are targeting:
 
-        -   New market. No competition. Customer needs educating.
+        -   New market. No established competition. Customer needs educating.
 
-        -   Existing market. High competition. Customer understood. Product must be better.
+        -   Existing market. Established competition. Customer understood. Product must be better.
 
         -   Resegmented existing market, dividing by price.
 
