@@ -78,7 +78,9 @@
 
 -   Continuous process.
 
--   Broader knowledge of the market will highlight:
+-   Qualitative. Broad (avoid deep analysis).
+
+-   Goal is to highlight:
 
     -   Validity of your 'market type' assumption: new, existing, re-segment niche/price.
 
