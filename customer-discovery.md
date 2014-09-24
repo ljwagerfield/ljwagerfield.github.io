@@ -72,7 +72,7 @@
 
 -   An overarching 'vision' canvas may not exist in reality; it exists as the union of all derivative canvases.
 
-### Step 2: Market Research
+## Step 2: Market Research
 
 >   The market is a superset of your customers. It must be understood.
 
