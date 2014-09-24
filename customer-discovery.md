@@ -84,7 +84,17 @@
 
     -   Analogues to alleviate testing.
 
--   Share your idea with friends: they often know parts of the market you are not aware of.
+-   Share your idea with friends.
+
+    -   They often know parts of the market you are not aware of.
+
+    -   Sharing *only the problem* usually provides enough context for discussion.
+
+    -   The solution is still a hypothesis at this point.
+
+        -   It has the largest number of dependencies on other hypotheses, making it uncertain.
+
+        -   Less value in sharing the solution - because it is a poor starting point - not because people might steal it.
 
 -   When talking with customers, learn about:
 
