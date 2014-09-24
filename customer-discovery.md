@@ -78,7 +78,7 @@
 
 -   Continuous process.
 
--   Qualitative. Broad (avoid deep analysis).
+-   Qualitative. Broad and shallow - avoid deep analysis.
 
 -   Goal is to highlight:
 
