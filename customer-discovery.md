@@ -94,7 +94,9 @@
 
         -   It has the largest number of dependencies on other hypotheses, making it uncertain.
 
-        -   Less value in sharing the solution - because it is a poor starting point - not because people might steal it.
+        -   Therefore provides less value as a starting point.
+
+        -   The problem hypothesis is more representative of the market your are trying to understand.
 
 -   When talking with customers, learn about:
 
