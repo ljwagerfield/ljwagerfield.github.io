@@ -6,7 +6,7 @@
 
 1.  Envision (broadly scoped, single draft canvas)
 
-2.  Market research (broad, qualitative, )
+2.  Market research (broad, qualitative)
 
 3.  Adviser feedback
 
