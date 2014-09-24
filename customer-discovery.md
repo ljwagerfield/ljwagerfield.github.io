@@ -64,9 +64,11 @@
 
 -   Produce a high-concept pitch: a single line to express the idea.
 
--   Identify market type (new, existing, re-segment niche/price).
+-   Broadly assume market type (new or existing).
 
-    -   Affects how you approach customers.
+    -   Affects problem interview scripts (new markets are less critical of their problems).
+
+    -   Avoid assuming specific strategies for existing markets (e.g. performance, price, niche).
 
 -   The canvas is an organic document that evolves.
 
@@ -76,17 +78,13 @@
 
 >   The market is a superset of your customers - ["market type is everything"](http://steveblank.com/2009/09/10/customer-development-manifesto-part-4/)
 
--   Continuous process.
+-   Continuous qualitative process.
 
--   Qualitative. Broad and shallow - avoid deep analysis.
+-   Initially perform brief secondary research.
 
--   Goal is to highlight:
+    -   Provides a quick sanity check.
 
-    -   Validity of your 'market type' assumption: new, existing, re-segment niche/price.
-
-    -   New search spaces for formulating hypotheses.
-
-    -   Analogues to alleviate testing.
+    -   However, most valuable market research comes from talking to the market.
 
 -   Share your idea with friends.
 
@@ -109,6 +107,22 @@
     -   Competitors. Investigate these. Do they affect our market type hypothesis?
 
     -   Consortiums and groups. Create a presence with these.
+
+-   Goal is to highlight:
+
+    -   New search spaces for formulating hypotheses.
+
+    -   Analogues to alleviate testing.
+
+    -   Initial 'market type' of the market(s) you are targeting:
+
+        -   New market.
+
+        -   Existing market. Enter with a better-performing product.
+
+        -   Resegmented existing market, divided by price.
+
+        -   Resegmented existing market, divided by niche customers/problems.
 
 ## Step 3: Adviser Feedback
 
