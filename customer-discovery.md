@@ -6,11 +6,13 @@
 
 1.  Envision (broadly scoped, single draft canvas)
 
-2.  Adviser feedback
+2.  Market research
 
-3.  Problem interviews (customer feedback)
+3.  Adviser feedback
 
-4.  Steer
+4.  Problem interviews (customer feedback)
+
+5.  Steer
 
     1.  Exit (positive signal)
 
@@ -30,7 +32,7 @@
 
         -   Hone-in on next riskiest assumptions.
 
-        -   Return to step 2.
+        -   Return to step 3.
 
 ## Step 1: Envision
 
@@ -70,7 +72,29 @@
 
 -   An overarching 'vision' canvas may not exist in reality; it exists as the union of all derivative canvases.
 
-## Step 2: Adviser Feedback
+### Step 2: Market Research
+
+>   The market is a superset of your customers. It must be understood.
+
+-   Broader knowledge of the market will highlight:
+
+    -   Validity of your 'market type' assumption: new, existing, re-segment niche/price.
+
+    -   New search spaces for formulating hypotheses.
+
+    -   Analogues to alleviate testing.
+
+-   Share your idea with friends: they often know parts of the market you are not aware of.
+
+-   When talking with customers, learn about:
+
+    -   Industry events. Attend these. Talk to speakers.
+
+    -   Competitors. Investigate these. Do they affect our market type hypothesis?
+
+    -   Consortiums and groups. Create a presence with these.
+
+## Step 3: Adviser Feedback
 
 >   The riskiest part of running a startup is not correctly identifying what's riskiest.
 
@@ -114,7 +138,7 @@
 
     -   Are there other people we should speak with?
 
-## Step 3: Problem Interviews
+## Step 4: Problem Interviews
 
 >   Customer and market risks are higher than product risks
 
@@ -162,25 +186,7 @@
 
     -   Aim for stronger and more consistent positive signals with each subsequent batch
 
-### Learn the market
-
->   The market is a superset of the customer base. It must also be understood.
-
--   Deep knowledge of the market will highlight:
-
-    -   New search spaces for formulating hypotheses.
-
-    -   Analogues to alleviate testing.
-
--   When talking with customers, learn about:
-
-    -   Industry events. Attend these. Talk to speakers.
-
-    -   Competitors. Investigate these. Do they affect our market type hypothesis?
-
-    -   Consortiums and groups. Create a presence with these.
-
-## Step 4: Steer
+## Step 5: Steer
 
 -   Goal is to get a strong signal, positive or negative.
 
