@@ -2,6 +2,10 @@
 
 >   The only way to win is to learn faster than anyone else.
 
+## Envision
+
+>   One way to figure out what jobs the audience wants to be done is to look at what successful competitors have accomplished and then ask what people were trying to do when they hired the competitor.
+
 ## Approach
 
 >   Value is providing benefit to the customer; anything else is waste.
