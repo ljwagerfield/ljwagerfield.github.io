@@ -4,15 +4,17 @@
 
 >   Validate Qualitatively
 
-1.  Envision (broadly scoped, single draft canvas)
+1.  Envision
 
-2.  Market research (broad, qualitative)
+2.  Strategize
 
-3.  Adviser feedback
+3.  Market research (broad, qualitative)
 
-4.  Problem interviews (customer feedback)
+4.  Adviser feedback
 
-5.  Steer
+5.  Problem interviews (customer feedback)
+
+6.  Steer
 
     1.  Exit (positive signal)
 
@@ -22,7 +24,7 @@
 
         -   Envision new *customer hypothesis* to remedy failed part of business model.
 
-        -   Return to step 1.
+        -   Return to step 2.
 
     3.  Persevere (mixed signals)
 
@@ -32,99 +34,91 @@
 
         -   Hone-in on next riskiest assumptions.
 
-        -   Return to step 3.
+        -   Return to step 4.
 
 ## Step 1: Envision
 
->   It takes an average of 58 ideas to deliver a single successful new product.
+>   Don't lose sight of the forest for the trees.
 
--   Constrain your idea around a domain you are passionate about.
+-   Distil your *vision* in a single sentence.
 
--   Cast a wide net to avoid a local-maxima problem.
+    -   Why would someone go to your product first?
 
-    -   Different problems.
+    -   Not a sales-pitch; an articulation of 'the thought you had in the shower'.
 
-    -   Different markets.
+    -   If this is a multi-sided business, write a sentence for each side.
 
--   Produce canvas(es).
+    -   Should be high-level and not constrained to a specific problem.
 
-    -   Initially may be 1.
+    -   Must allow room to explore multiple *strategies*.
 
-    -   New canvas for each problem domain.
+-   The vision succinctly defines the market (even if it doesn't yet exist). 
+
+    -   Allows you to assert who is in, adjacent to, or outside of your market.
+
+    -   Think of the market as a castle. You want to invade it.
+
+    -   You define strategies (*lean canvases*) for how to break through.
+
+    -   Goal is to find the easiest route into the market.
+
+## Step 2: Strategize
+
+>   Job to be done -> Problems -> Solutions
+
+-   Discover problems solvable by your solution:
+
+    -   Cast a wide net to avoid a local-maxima problem.
+
+    -   Brainstorm *jobs-to-be-done* that arise in your life that could be solved with this vision.
+
+    -   Jobs-to-be-done identify core tasks someone tries to achieve in their life.
+
+    -   *Problems* are what people face in their current environment when trying to achieve them.
+
+    -   These can be solved by *solutions*.
+
+    -   *One way* to find jobs to be done is to look at existing solutions and then ask what people were trying to do initially.
+
+-   Document each set of related problems as separate lean canvases:
 
     -   Under 20 minutes for each initial draft.
 
-    -   Avoid deep analysis at this stage - *initial assumptions are often disproved*
+    -   Canvases are organic documents that evolve.
 
-        -   Just enough to articulate idea to advisers.
+    -   Invaluable tool for articulating strategies to advisers.
 
-        -   Identifies a starting point for problem interviews.
-
->   Too many business plans look like they are planning to launch a rocket than drive a car. 
-
--   Produce a high-concept pitch: a single line to express the idea.
-
--   Broadly assume market type (new or existing).
-
-    -   Affects problem interview scripts (new markets are less critical of their problems).
-
-    -   Avoid assuming specific strategies for existing markets (e.g. performance, price, niche).
-
--   The canvas is an organic document that evolves.
-
--   An overarching 'vision' canvas may not exist in reality; it exists as the union of all derivative canvases.
-
-## Step 2: Market Research
+## Step 3: Market Research
 
 >   The market is a superset of your customers - ["market type is everything"](http://steveblank.com/2009/09/10/customer-development-manifesto-part-4/)
 
 -   Continuous qualitative process.
 
--   Initially perform brief secondary research.
+-   Attempt to invalidate 'problem hypotheses' in your strategies by finding existing solutions.
 
-    -   Provides a quick sanity check.
+    -   Ask other people if they are aware of existing solutions for these *problems*.
 
-    -   However, most valuable market research comes from talking to the market.
+    -   Document each company that solves these problems.
 
--   Share your idea with friends.
+    -   Categorise them by which market they occupy.
 
-    -   They often know parts of the market you are not aware of.
+-   If you find competitors (companies that solve your problems *and* occupy the same market):
 
-    -   Sharing *only the problem* usually provides enough context for discussion.
+    -   Formulate a new strategy against a different customer segment / problem set.
 
-    -   The solution is still a hypothesis at this point.
+    -   Return to step 2.
 
-        -   It has the largest number of dependencies on other hypotheses, making it uncertain.
+-   Market research clarifies your 'market type', which influences how you approach the market.
 
-        -   Therefore provides less value as a starting point.
+    -   New market. No established competition. Customer needs educating.
 
-        -   The problem hypothesis is more representative of the market your are trying to understand.
+    -   Existing market. Established competition. Customer understood. Product must be better.
 
--   When talking with customers, learn about:
+    -   Resegmented existing market, dividing by price.
 
-    -   Industry events. Attend these. Talk to speakers.
+    -   Resegmented existing market, dividing by niche customers/problems.
 
-    -   Competitors. Investigate these. Do they affect our market type hypothesis?
-
-    -   Consortiums and groups. Create a presence with these.
-
--   Goal is to highlight:
-
-    -   New search spaces for formulating hypotheses.
-
-    -   Analogues to alleviate testing.
-
-    -   Initial 'market type' of the market(s) you are targeting:
-
-        -   New market. No established competition. Customer needs educating.
-
-        -   Existing market. Established competition. Customer understood. Product must be better.
-
-        -   Resegmented existing market, dividing by price.
-
-        -   Resegmented existing market, dividing by niche customers/problems.
-
-## Step 3: Adviser Feedback
+## Step 4: Adviser Feedback
 
 >   The riskiest part of running a startup is not correctly identifying what's riskiest.
 
@@ -168,7 +162,7 @@
 
     -   Are there other people we should speak with?
 
-## Step 4: Problem Interviews
+## Step 5: Problem Interviews
 
 >   Customer and market risks are higher than product risks
 
@@ -216,7 +210,15 @@
 
     -   Aim for stronger and more consistent positive signals with each subsequent batch
 
-## Step 5: Steer
+-   When talking with customers, learn about:
+
+    -   Industry events. Attend these. Talk to speakers.
+
+    -   Competitors. Investigate these. Do they affect our strategy?
+
+    -   Consortiums and groups. Create a presence with these.
+
+## Step 6: Steer
 
 -   Goal is to get a strong signal, positive or negative.
 
