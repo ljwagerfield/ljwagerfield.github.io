@@ -66,7 +66,7 @@
 
 >   Job to be done -> Problems -> Solutions
 
--   Discover problems solvable by your solution:
+-   Discover problems that are solved in your vision:
 
     -   Cast a wide net to avoid a local-maxima problem.
 
