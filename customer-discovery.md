@@ -60,7 +60,7 @@
 
     -   You define strategies (*lean canvases*) for how to break through.
 
-    -   Goal is to find the easiest route into the market.
+    -   Goal is to highlight the weakest part in the castle's defence: the easiest route to market.
 
 ## Step 2: Strategize
 
