@@ -78,7 +78,7 @@
 
     -   These can be solved by *solutions*, which will dictate how your vision materializes.
 
-    -   *One way* to find jobs to be done is to look at existing solutions and then ask what people were trying to do initially.
+    -   Another way to find jobs to be done is to look at existing solutions and then ask what people were trying to do initially.
 
 -   Document each set of related problems as separate lean canvases:
 
