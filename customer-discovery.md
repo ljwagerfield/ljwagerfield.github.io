@@ -76,7 +76,7 @@
 
     -   *Problems* are what people face in their current environment when trying to achieve them.
 
-    -   These can be solved by *solutions*.
+    -   These can be solved by *solutions*, which will dictate how your vision materializes.
 
     -   *One way* to find jobs to be done is to look at existing solutions and then ask what people were trying to do initially.
 
